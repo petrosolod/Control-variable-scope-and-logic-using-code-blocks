@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\jaike\\Desktop\\C Sharp Microsoft Learn Course\\Control variable scope and logic using code blocks\\Control variable scope and logic using code blocks.csproj",
+      "projectUniqueName": "C:\\Users\\jaike\\Desktop\\C Sharp Self-Educational course\\Control variable scope and logic using code blocks\\Control variable scope and logic using code blocks.csproj",
       "projectName": "Control variable scope and logic using code blocks",
-      "projectPath": "C:\\Users\\jaike\\Desktop\\C Sharp Microsoft Learn Course\\Control variable scope and logic using code blocks\\Control variable scope and logic using code blocks.csproj",
+      "projectPath": "C:\\Users\\jaike\\Desktop\\C Sharp Self-Educational course\\Control variable scope and logic using code blocks\\Control variable scope and logic using code blocks.csproj",
       "packagesPath": "C:\\Users\\jaike\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\jaike\\Desktop\\C Sharp Microsoft Learn Course\\Control variable scope and logic using code blocks\\obj\\",
+      "outputPath": "C:\\Users\\jaike\\Desktop\\C Sharp Self-Educational course\\Control variable scope and logic using code blocks\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\jaike\\AppData\\Roaming\\NuGet\\NuGet.Config"

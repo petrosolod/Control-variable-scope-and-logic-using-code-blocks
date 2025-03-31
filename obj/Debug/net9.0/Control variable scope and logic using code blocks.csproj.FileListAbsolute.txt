@@ -12,3 +12,4 @@ C:\Users\jaike\Desktop\C Sharp Microsoft Learn Course\Control variable scope and
 C:\Users\jaike\Desktop\C Sharp Microsoft Learn Course\Control variable scope and logic using code blocks\obj\Debug\net9.0\Control variable scope and logic using code blocks.pdb
 C:\Users\jaike\Desktop\C Sharp Microsoft Learn Course\Control variable scope and logic using code blocks\obj\Debug\net9.0\Control variable scope and logic using code blocks.genruntimeconfig.cache
 C:\Users\jaike\Desktop\C Sharp Microsoft Learn Course\Control variable scope and logic using code blocks\obj\Debug\net9.0\ref\Control variable scope and logic using code blocks.dll
+C:\Users\jaike\Desktop\C Sharp Microsoft Learn Course\Control variable scope and logic using code blocks\obj\Debug\net9.0\Control variable scope and logic using code blocks.sourcelink.json

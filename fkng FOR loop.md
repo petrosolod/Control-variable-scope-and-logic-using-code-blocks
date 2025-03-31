@@ -1,5 +1,6 @@
 # i don't like this loop, but I must understent it
 
+```csharp
 int[] mirror = [1,3,12,23,65,34,42,54,76,45,234,654,235,456];
         //Array.Sort(mirror);
         //i start from 0, untill [i] will be 10, every time that loop will finish the circle i + 1
@@ -31,3 +32,4 @@ for (int i = 0; i < names.Length; i++)
     if (names[i] == "David") names[i] = "Sammy"; // we can change the variable using [for] loop
 
 foreach (var name in names) Console.WriteLine(name);
+```
